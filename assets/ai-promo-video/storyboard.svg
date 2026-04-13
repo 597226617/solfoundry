@@ -1,0 +1,89 @@
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- SolFoundry 30s AI Promo Video - Storyboard Preview -->
+  
+  <!-- Background -->
+  <rect width="1920" height="1080" fill="#0f172a"/>
+  
+  <!-- Title -->
+  <text x="960" y="60" text-anchor="middle" fill="#ffffff" font-size="36" font-family="Arial" font-weight="bold">SolFoundry 30s AI Promo - Storyboard</text>
+  
+  <!-- Scene 1 (0-5s) -->
+  <g transform="translate(50, 100)">
+    <rect width="300" height="200" rx="10" fill="#1e293b" stroke="#10b981" stroke-width="3"/>
+    <text x="150" y="100" text-anchor="middle" fill="#10b981" font-size="80" font-family="Arial">⚒️</text>
+    <text x="150" y="140" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">0-5s: Opening</text>
+    <text x="150" y="170" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Arial">"每个开发者都是铁匠"</text>
+  </g>
+  
+  <!-- Scene 2 (5-10s) -->
+  <g transform="translate(400, 100)">
+    <rect width="300" height="200" rx="10" fill="#1e293b" stroke="#ec4899" stroke-width="3"/>
+    <text x="150" y="100" text-anchor="middle" fill="#ec4899" font-size="80" font-family="Arial">💻</text>
+    <text x="150" y="140" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">5-10s: Problem</text>
+    <text x="150" y="170" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Arial">"找任务太耗时？"</text>
+  </g>
+  
+  <!-- Scene 3 (10-15s) -->
+  <g transform="translate(750, 100)">
+    <rect width="300" height="200" rx="10" fill="#1e293b" stroke="#10b981" stroke-width="3"/>
+    <text x="150" y="100" text-anchor="middle" fill="#10b981" font-size="80" font-family="Arial">🎯</text>
+    <text x="150" y="140" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">10-15s: Solution</text>
+    <text x="150" y="170" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Arial">"AI 连接任务与人才"</text>
+  </g>
+  
+  <!-- Scene 4 (15-20s) -->
+  <g transform="translate(1100, 100)">
+    <rect width="300" height="200" rx="10" fill="#1e293b" stroke="#ec4899" stroke-width="3"/>
+    <text x="150" y="80" text-anchor="middle" fill="#10b981" font-size="40" font-family="Arial" font-weight="bold">T1</text>
+    <text x="150" y="120" text-anchor="middle" fill="#ec4899" font-size="40" font-family="Arial" font-weight="bold">T2</text>
+    <text x="150" y="160" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">15-20s: Features</text>
+    <text x="150" y="185" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Arial">"智能匹配·AI 审核·即时支付"</text>
+  </g>
+  
+  <!-- Scene 5 (20-25s) -->
+  <g transform="translate(1450, 100)">
+    <rect width="300" height="200" rx="10" fill="#1e293b" stroke="#10b981" stroke-width="3"/>
+    <text x="150" y="100" text-anchor="middle" fill="#10b981" font-size="80" font-family="Arial">💰</text>
+    <text x="150" y="140" text-anchor="middle" fill="#ffffff" font-size="16" font-family="Arial">20-25s: Success</text>
+    <text x="150" y="170" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="Arial">"$500,000+ 已发放"</text>
+  </g>
+  
+  <!-- Scene 6 (25-30s) -->
+  <g transform="translate(50, 350)">
+    <rect width="1700" height="200" rx="10" fill="#1e293b" stroke="#ec4899" stroke-width="3"/>
+    <text x="850" y="80" text-anchor="middle" fill="#ec4899" font-size="60" font-family="Arial" font-weight="bold">SolFoundry</text>
+    <text x="850" y="130" text-anchor="middle" fill="#ffffff" font-size="24" font-family="Arial">Forge Your Future</text>
+    <text x="850" y="170" text-anchor="middle" fill="#10b981" font-size="18" font-family="Arial">github.com/SolFoundry | 立即加入</text>
+  </g>
+  
+  <!-- Timeline -->
+  <line x1="50" y1="600" x2="1750" y2="600" stroke="#10b981" stroke-width="4"/>
+  <circle cx="50" cy="600" r="8" fill="#10b981"/>
+  <circle cx="400" cy="600" r="8" fill="#ec4899"/>
+  <circle cx="750" cy="600" r="8" fill="#10b981"/>
+  <circle cx="1100" cy="600" r="8" fill="#ec4899"/>
+  <circle cx="1450" cy="600" r="8" fill="#10b981"/>
+  <circle cx="1750" cy="600" r="8" fill="#ec4899"/>
+  
+  <!-- Time markers -->
+  <text x="50" y="630" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="Arial">0s</text>
+  <text x="400" y="630" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="Arial">5s</text>
+  <text x="750" y="630" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="Arial">10s</text>
+  <text x="1100" y="630" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="Arial">15s</text>
+  <text x="1450" y="630" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="Arial">20s</text>
+  <text x="1750" y="630" text-anchor="middle" fill="#94a3b8" font-size="14" font-family="Arial">30s</text>
+  
+  <!-- Technical specs -->
+  <g transform="translate(50, 680)">
+    <text x="0" y="0" fill="#ffffff" font-size="20" font-family="Arial" font-weight="bold">Technical Specifications:</text>
+    <text x="0" y="30" fill="#94a3b8" font-size="16" font-family="Arial">Resolution: 1920x1080 (1080p) | FPS: 30 | Format: MP4 (H.264) | Duration: 30s | Size: &lt;50MB</text>
+  </g>
+  
+  <!-- AI prompts -->
+  <g transform="translate(50, 750)">
+    <text x="0" y="0" fill="#ffffff" font-size="20" font-family="Arial" font-weight="bold">AI Generation Prompts:</text>
+    <text x="0" y="30" fill="#94a3b8" font-size="14" font-family="Arial">Midjourney: "Futuristic forge with blockchain symbols, emerald green and magenta colors, dark theme, cinematic lighting --ar 16:9 --v 5"</text>
+    <text x="0" y="55" fill="#94a3b8" font-size="14" font-family="Arial">ElevenLabs: "Professional, energetic, tech-focused voice, 1.1x speed, confident and inspiring emotion"</text>
+    <text x="0" y="80" fill="#94a3b8" font-size="14" font-family="Arial">Music: "Electronic/Tech, 120-140 BPM, inspiring and energetic"</text>
+  </g>
+</svg>
